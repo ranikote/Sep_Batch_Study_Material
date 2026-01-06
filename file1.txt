@@ -1,9 +1,3 @@
-Go to gitlab & jenkins
-
-Open your repository
-
-Click the Pull requests tab (top menu)
-
-Click on the Pull Request you created
-
-Scroll down to the bottom of the Pull Request page
+Pushes branch D1 to the remote origin
+Does NOT set any upstream tracking
+Next time you must specify the branch again:
