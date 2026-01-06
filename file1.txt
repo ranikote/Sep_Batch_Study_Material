@@ -3,3 +3,8 @@ Does NOT set any upstream tracking
 Next time you must specify the branch again:
 
 
+Click the Pull requests tab (top menu)
+
+Click on the Pull Request you create
+
+Required reviews not approved
